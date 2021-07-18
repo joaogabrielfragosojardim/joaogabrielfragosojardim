@@ -1,4 +1,4 @@
-## Oiii! Eu sou a Rafaella Ballerini 
+## Olá! eu sou o João
  <div>
   <a href="https://github.com/rafaballerini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaogabrielfragosojardim&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
