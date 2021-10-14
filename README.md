@@ -11,6 +11,8 @@
  <img align="center" alt="Firebase" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg">
  <img align="center" alt="JQuery" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg">
   <img align="center" alt="React" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
+  <img align="center" alt="React" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
+</div>
 </div>
   
   ##
